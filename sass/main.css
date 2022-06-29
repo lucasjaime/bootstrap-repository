@@ -1,8 +1,0 @@
-#carouselExampleControls .carousel-inner .img {
-    width: 40%;
-}
-#carouselExampleControls {
-    background: url(../Images/fondo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
